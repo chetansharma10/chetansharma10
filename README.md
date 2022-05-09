@@ -15,7 +15,7 @@ hi, i'm [Chetan](https://chetansharma10.github.io/Portfolio/), a passionate self
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
 - 💼 any freelance work? do reach, [email](mailto:sparkycks10@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
