@@ -1,4 +1,4 @@
-### hey there 
+### Hey there 
 <a href="https://www.instagram.com/sharmachetan10/">
   <img align="left" alt="Chetan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
