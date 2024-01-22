@@ -1,15 +1,4 @@
 ### Hey there 
-<a href="https://www.instagram.com/sharmachetan10/">
-  <img align="left" alt="Chetan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/chetan-sharma-9b10ab1b7/">
-  <img align="left" alt="Chetan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=chetansharma10.chetansharma10)
-
-<br />
 
 hi, i'm [Chetan](https://chetansharma10.github.io/Portfolio/), a passionate self-taught Frontend web developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
